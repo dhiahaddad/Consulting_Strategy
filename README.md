@@ -23,6 +23,7 @@ To deliver high-quality, consistent, and impactful consulting services focused o
 ### Technical Resources
 - **[Python_Code_Review_Checklist.md](Python_Code_Review_Checklist.md)** - Comprehensive review guide
 - **[Python_Best_Practices.md](Python_Best_Practices.md)** - Quick reference for common patterns
+- **[Software_Licensing_Guide.md](Software_Licensing_Guide.md)** - Guide for advising clients on licensing their code
 - **[Session_Notes_Template.md](Session_Notes_Template.md)** - Documentation template
 
 ## Session Format
@@ -37,5 +38,11 @@ To deliver high-quality, consistent, and impactful consulting services focused o
 4. After session, complete [Post_Consultation_Checklist.md](Post_Consultation_Checklist.md)
 5. For code reviews, use [Python_Code_Review_Checklist.md](Python_Code_Review_Checklist.md)
 
+## License
+
+This consulting framework is dedicated to the public domain under [CC0 1.0 Universal](LICENSE). You are free to use, modify, and distribute these materials without restriction or attribution for your own consulting practice.
+
+**Important**: These materials were created with AI assistance. While dedicated to the public domain, we cannot guarantee the AI training data was entirely free from copyrighted materials. Users are advised to review and customize content for their own use. See [LICENSE](LICENSE) for full disclaimer.
+
 ## Updates
-Last updated: January 16, 2026
+Last updated: January 17, 2026

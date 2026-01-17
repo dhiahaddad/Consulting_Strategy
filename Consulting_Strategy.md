@@ -278,6 +278,17 @@ To empower PhD students and postdocs with the software engineering skills, pract
 - [Writing Good Documentation](https://www.writethedocs.org/guide/)
 - [Sphinx Documentation](https://www.sphinx-doc.org/)
 
+### Licensing & Sharing Code
+- [Choose a License](https://choosealicense.com/)
+- [Software Licensing Guide for Clients](Software_Licensing_Guide.md)
+- [Zenodo - Code Archiving](https://zenodo.org/)
+
+---
+
+## License & Usage
+
+This consulting framework is dedicated to the public domain (CC0 1.0). You may freely use, modify, and adapt these materials for your own consulting practice without restriction or attribution. When sharing code examples or resources with clients, you maintain full ownership and can license them as you see fit.
+
 ---
 
 **Remember**: Your role is to empower researchers to become better software developers, not to do the development for them. Every consultation is an opportunity to build skills, confidence, and sustainable practices.
