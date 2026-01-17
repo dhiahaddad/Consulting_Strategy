@@ -27,6 +27,7 @@ To deliver high-quality, consistent, and impactful consulting services focused o
 - **[Debugging_Guide.md](Debugging_Guide.md)** - Reproduction-first debugging workflow and checklists
 - **[Refactoring_Guide.md](Refactoring_Guide.md)** - Safe refactoring process for research code
 - **[Performance_Optimization_Guide.md](Performance_Optimization_Guide.md)** - Profiling-first performance optimization playbook
+- **[Data_Structures_Guide.md](Data_Structures_Guide.md)** - Choosing the right data structures (lists/dicts/sets/deques/NumPy/pandas)
 - **[Software_Licensing_Guide.md](Software_Licensing_Guide.md)** - Guide for advising clients on licensing their code
 - **[Online_Hosting_Guide.md](Online_Hosting_Guide.md)** - Guide for deploying and hosting research applications
 - **[CI_CD_Guide.md](CI_CD_Guide.md)** - Continuous Integration/Deployment with GitHub Actions, GitLab CI, Jenkins
