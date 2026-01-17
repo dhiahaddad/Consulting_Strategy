@@ -24,6 +24,7 @@ To deliver high-quality, consistent, and impactful consulting services focused o
 - **[Python_Code_Review_Checklist.md](Python_Code_Review_Checklist.md)** - Comprehensive review guide
 - **[Python_Best_Practices.md](Python_Best_Practices.md)** - Quick reference for common patterns
 - **[Software_Licensing_Guide.md](Software_Licensing_Guide.md)** - Guide for advising clients on licensing their code
+- **[Online_Hosting_Guide.md](Online_Hosting_Guide.md)** - Guide for deploying and hosting research applications
 - **[Session_Notes_Template.md](Session_Notes_Template.md)** - Documentation template
 
 ## Session Format
