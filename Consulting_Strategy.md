@@ -283,6 +283,11 @@ To empower PhD students and postdocs with the software engineering skills, pract
 - [Software Licensing Guide for Clients](Software_Licensing_Guide.md)
 - [Zenodo - Code Archiving](https://zenodo.org/)
 
+### Deployment & CI/CD
+- [Online Hosting Guide](Online_Hosting_Guide.md)
+- [CI/CD Guide](CI_CD_Guide.md)
+- [GitHub Actions](https://github.com/features/actions)
+
 ---
 
 ## License & Usage
