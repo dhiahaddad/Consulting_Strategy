@@ -23,8 +23,10 @@ To deliver high-quality, consistent, and impactful consulting services focused o
 ### Technical Resources
 - **[Python_Code_Review_Checklist.md](Python_Code_Review_Checklist.md)** - Comprehensive review guide
 - **[Python_Best_Practices.md](Python_Best_Practices.md)** - Quick reference for common patterns
+- **[Testing_Guide.md](Testing_Guide.md)** - Unit tests, integration tests, and testing strategies
 - **[Software_Licensing_Guide.md](Software_Licensing_Guide.md)** - Guide for advising clients on licensing their code
 - **[Online_Hosting_Guide.md](Online_Hosting_Guide.md)** - Guide for deploying and hosting research applications
+- **[CI_CD_Guide.md](CI_CD_Guide.md)** - Continuous Integration/Deployment with GitHub Actions, GitLab CI, Jenkins
 - **[Session_Notes_Template.md](Session_Notes_Template.md)** - Documentation template
 
 ## Session Format
