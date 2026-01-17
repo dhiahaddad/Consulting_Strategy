@@ -95,10 +95,10 @@
 ```markdown
 Subject: Follow-up from today's RSE consultation - [Topic]
 
-Hi [Name],
+Hi [Client Name],
 
-Thank you for meeting with me today! I enjoyed discussing [specific topic] 
-and learning more about your [research area] work.
+Thank you for meeting with me today! I enjoyed discussing [Specific Topic]
+and learning more about your [Research Area] work.
 
 ## Session Summary
 
@@ -139,7 +139,7 @@ Here are the resources I mentioned:
 
 ## Recording
 
-[If applicable: Your session recording is available here: [LINK] 
+[If applicable: Your session recording is available here: [Link] 
 It will be available for [X] days.]
 
 ## Next Steps
@@ -147,8 +147,8 @@ It will be available for [X] days.]
 [Choose appropriate option:]
 
 **Option A (Follow-up scheduled):**
-I've scheduled our follow-up session for [DATE/TIME]. We'll focus on 
-[topic]. Please [any preparation needed] before then.
+I've scheduled our follow-up session for [Date/Time]. We'll focus on
+[Topic]. Please [Any Preparation Needed] before then.
 
 **Option B (Follow-up offered):**
 If you'd like to schedule a follow-up session once you've implemented 
@@ -166,12 +166,12 @@ If anything is unclear or you run into issues, don't hesitate to reach out.
 Best of luck with your [specific project/research]!
 
 Best regards,
-[Your name]
+Dhia Haddad
 
 ---
 
 Research Software Engineer Consultant
-[Your contact information]
+[Your Contact Information]
 ```
 
 ---

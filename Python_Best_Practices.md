@@ -624,7 +624,9 @@ def fit_linear_model(X, y, regularization=0.01):
 
 ### Create a Good README
 
-```markdown
+Note: the example below uses MIT as a common choice; pick the license that fits your project.
+
+````markdown
 # My Research Project
 
 Brief description of what this project does.
@@ -666,7 +668,7 @@ Author et al. (2026). Paper Title. Journal Name.
 ## License
 
 MIT License
-```
+````
 
 ---
 

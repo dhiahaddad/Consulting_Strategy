@@ -2,6 +2,8 @@
 
 *A practical guide for helping PhD students and postdocs license their research software*
 
+Note: This repository is CC0; the license examples below are for client projects.
+
 ---
 
 ## Why Licensing Matters for Research Code
@@ -63,7 +65,7 @@ Is this research/academic code?
 
 **Example projects**: NumPy, scikit-learn, many Python packages
 
-```markdown
+````markdown
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -74,7 +76,7 @@ If you use this code in your research, please cite:
 ```
 Author, A. et al. (2026). Paper Title. Journal Name.
 ```
-```
+````
 
 ---
 
@@ -279,7 +281,7 @@ Module for analyzing experimental data.
 ### Step 4: Update README
 
 **Add to README.md:**
-```markdown
+````markdown
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -309,7 +311,7 @@ Or cite the software directly:
   version={1.0.0}
 }
 ```
-```
+````
 
 ### Step 5: Add to Repository Metadata
 
@@ -552,7 +554,7 @@ Before we do that, let me ask: was this funded by a grant?"
 ```
 Subject: Resources for Licensing Your Research Code
 
-Hi [Name],
+Hi [Client Name],
 
 As we discussed, here are the steps to license your code:
 
@@ -586,7 +588,7 @@ Resources:
 Let me know if you have questions!
 
 Best,
-[Your Name]
+Dhia Haddad
 ```
 
 ---
